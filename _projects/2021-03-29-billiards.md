@@ -6,4 +6,3 @@ description:
 featured_image: '/images/demo/10.JPG'
 ---
 
-![](/images/demo/10.JPG)
